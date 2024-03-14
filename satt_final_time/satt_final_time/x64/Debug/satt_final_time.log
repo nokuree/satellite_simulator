@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\satt_final_time\earth.h(21,10): warning C4305: '=': truncation from 'double' to 'float'
+C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\satt_final_time\satellite.h(48,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\satt_final_time\satellite.h(48,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\satt_final_time\satellite.h(65,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\satt_final_time\satellite.h(67,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\satt_final_time\satellite.h(68,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\satt_final_time\satellite.h(70,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\satt_final_time\satellite.h(72,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\satt_final_time\satellite.h(74,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\satt_final_time\satellite.h(77,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\satt_final_time\satellite.h(80,95): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\satt_final_time\main.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\satt_final_time\main.cpp(134,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\satt_final_time\main.cpp(134,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\satt_final_time\main.cpp(139,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\satt_final_time\main.cpp(139,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\satt_final_time\main.cpp(158,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\satt_final_time\main.cpp(158,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  satt_final_time.vcxproj -> C:\Comp Sci Freshman\CPTS lecture and lab\satt_final_time\x64\Debug\satt_final_time.exe
